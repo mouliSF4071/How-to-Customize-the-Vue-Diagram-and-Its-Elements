@@ -1,6 +1,6 @@
 # How to Customize the Vue Diagram and Its Elements
 
-A quick start Vue project that shows how to customize the canvas page in the [Vue Diagram]( https://www.syncfusion.com/vue-components/vue-diagram?utm_source=github&utm_medium=listing&utm_campaign=vue-diagram-customization-sample) component. This project includes code snippets for displaying page breaks and multiple pages in the canvas. It also includes code snippets for customizing the appearance of nodes and connectors and bridging connectors.
+A quick start Vue project that shows how to customize the canvas page in the [Vue Diagram](https://www.syncfusion.com/vue-components/vue-diagram) component. This project includes code snippets for displaying page breaks and multiple pages in the canvas. It also includes code snippets for customizing the appearance of nodes and connectors and bridging connectors.
 
 Watch the video: https://www.syncfusion.com/tutorial-videos/vue/diagram?title=how-to-customize-the-vue-diagram-and-its-elements
 
